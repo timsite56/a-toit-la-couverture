@@ -1,0 +1,342 @@
+{
+  "nom_entreprise": "A toit la couverture",
+  "type_artisan": "Couvreur",
+  "ville": "Castres-Gironde",
+  "telephone_affiche": "06 65 14 62 03",
+  "telephone_tel": "+33665146203",
+  "annee": "2026",
+  "design": {
+    "palette": "orange",
+    "nav_style": "transparent",
+    "stats_style": "classique"
+  },
+  "hero": {
+    "image": "images/hero-bg.jpg",
+    "titre": "Votre toiture entre de bonnes mains, en Gironde",
+    "description": "Couvreur à Castres-Gironde, joignable 24h/24 : rénovation, couverture neuve, zinguerie, démoussage, façade et peinture à Bordeaux, Cadaujac, La Brède et dans toute la Gironde."
+  },
+  "apropos": {
+    "image": "images/apropos.jpg",
+    "texte": "A toit la couverture est une entreprise de couverture et de zinguerie installée au 16 Place de l'Airial, à Castres-Gironde, à vingt minutes de Bordeaux. Rénovation et réparation de toiture, couverture neuve, zinguerie, démoussage, ravalement de façade et peinture : nous prenons en charge l'ensemble du clos et du couvert, chez les particuliers comme pour les professionnels. De la réparation d'une simple fuite à la réfection complète d'une maison de pierre, chaque chantier reçoit la même exigence : un toit sain, étanche et durable.\n\nNous sommes joignables 24h/24 et 7j/7 : une tuile arrachée par le vent ou une fuite qui apparaît un dimanche ne peuvent pas attendre le lundi matin. Nous intervenons à Castres-Gironde, Cadaujac, Beautiran, Portets, La Brède, Léognan, Villenave-d'Ornon, Gradignan, Bordeaux et dans tout le département. Le devis est gratuit, détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
+    "badges": [
+      "Garantie décennale",
+      "Joignable 24h/24 et 7j/7",
+      "Devis gratuit",
+      "Artisan local en Gironde"
+    ]
+  },
+  "stats": [
+    {
+      "valeur": "10",
+      "label": "Ans d'expérience"
+    },
+    {
+      "valeur": "200",
+      "label": "Réalisations"
+    }
+  ],
+  "services": [
+    {
+      "titre": "Rénovation et Réparation Toiture",
+      "description": "Inspection, diagnostic précis et travaux de remise à neuf pour prolonger la vie de votre toit et assurer son étanchéité.",
+      "image": "images/service1.jpg",
+      "page": "renovation-reparation-toiture.html",
+      "points": [
+        "Diagnostic complet de la couverture",
+        "Remplacement des tuiles et tuiles cassées",
+        "Reprise de la charpente et du support",
+        "Traitement des infiltrations et des fuites",
+        "Réfection partielle ou totale",
+        "Mise en conformité et étanchéité"
+      ]
+    },
+    {
+      "titre": "Pose de Toiture Neuve",
+      "description": "Installation complète de toitures traditionnelles ou modernes, avec des matériaux adaptés à vos besoins et au climat local.",
+      "image": "images/service2.jpg",
+      "page": "pose-toiture-neuve.html",
+      "points": [
+        "Ardoise naturelle, tuile ou bac acier",
+        "Dépose de l'ancienne couverture",
+        "Pose de l'écran sous-toiture",
+        "Liteaunage et fixation",
+        "Isolation de la sous-toiture",
+        "Finitions de rives, arêtiers et faîtage"
+      ]
+    },
+    {
+      "titre": "Entretien et Démoussage",
+      "description": "Nettoyage professionnel, traitement préventif et entretien régulier pour préserver l'intégrité et l'esthétique de votre couverture.",
+      "image": "images/service3.jpg",
+      "page": "entretien-demoussage.html",
+      "points": [
+        "Démoussage manuel et mécanique",
+        "Traitement curatif anti-mousse",
+        "Hydrofuge de protection",
+        "Curage des gouttières",
+        "Contrôle des tuiles et des faîtages",
+        "Entretien annuel programmé"
+      ]
+    },
+    {
+      "titre": "Peinture Intérieure",
+      "description": "Nous réalisons tous vos travaux de peinture pour murs, plafonds et boiseries. Choix de couleurs, conseils personnalisés et finitions impeccables pour un intérieur qui vous ressemble.",
+      "image": "images/service4.jpg",
+      "page": "peinture-interieure.html",
+      "points": [
+        "Murs, plafonds et boiseries",
+        "Rebouchage et préparation des supports",
+        "Peinture mate, satinée ou velours",
+        "Pose de papier peint et revêtements",
+        "Conseils couleurs personnalisés",
+        "Protection du mobilier et nettoyage"
+      ]
+    },
+    {
+      "titre": "Peinture Extérieure",
+      "description": "Protection et embellissement de vos façades, boiseries et ferronneries. Des produits résistants aux intempéries pour une durabilité et un esthétisme préservés.",
+      "image": "images/service5.jpg",
+      "page": "peinture-exterieure.html",
+      "points": [
+        "Façades, boiseries et ferronneries",
+        "Volets, portails et bardages",
+        "Traitement des supports avant peinture",
+        "Peintures résistantes au climat girondin",
+        "Travail sur échafaudage sécurisé",
+        "Finitions nettes et durables"
+      ]
+    },
+    {
+      "titre": "Travaux de zinguerie",
+      "description": "Installation et réparation de gouttières, chéneaux et éléments en zinc pour une évacuation optimale des eaux pluviales et une protection accrue de votre façade.",
+      "image": "images/service6.jpg",
+      "page": "zinguerie.html",
+      "points": [
+        "Gouttières et descentes d'eau pluviale",
+        "Chéneaux et noues",
+        "Solins, bandeaux et rives",
+        "Habillage de souche de cheminée",
+        "Réparation de fuites en zinc",
+        "Zinguerie façonnée sur mesure"
+      ]
+    },
+    {
+      "titre": "Nettoyage et ravalement façade",
+      "description": "Redonnez un coup de jeune à vos murs extérieurs. Nous nettoyons et traitons vos façades pour une protection durable et une esthétique renouvelée.",
+      "image": "images/service7.jpg",
+      "page": "nettoyage-ravalement-facade.html",
+      "points": [
+        "Nettoyage basse et haute pression",
+        "Traitement anti-mousse des murs",
+        "Réparation des fissures",
+        "Enduit de façade et finitions",
+        "Protection hydrofuge",
+        "Devis détaillé poste par poste"
+      ]
+    },
+    {
+      "titre": "Installation et remplacement de Velux",
+      "description": "Pose et remplacement de fenêtres de toit Velux pour apporter plus de lumière et améliorer votre confort.",
+      "image": "images/service8.jpg",
+      "page": "pose-velux.html",
+      "points": [
+        "Pose de fenêtres de toit Velux",
+        "Remplacement de Velux vétustes",
+        "Raccords d'étanchéité adaptés à la tuile",
+        "Stores et volets roulants",
+        "Agrandissement de trémie",
+        "Mise en lumière des combles"
+      ]
+    },
+    {
+      "titre": "Peinture de toiture",
+      "description": "Redonnez de l'éclat à votre toiture grâce à une peinture professionnelle résistante aux intempéries et aux UV.",
+      "image": "images/service9.jpg",
+      "page": "peinture-toiture.html",
+      "points": [
+        "Nettoyage préalable de la couverture",
+        "Traitement anti-mousse",
+        "Peinture de toiture résistante aux UV",
+        "Application au pistolet ou au rouleau",
+        "Tuiles, fibrociment et bac acier",
+        "Aspect uniforme et longue tenue"
+      ]
+    }
+  ],
+  "avis": {
+    "google_score": "5.0",
+    "nb_avis": "3 avis",
+    "visible": true,
+    "temoignages": [
+      {
+        "initiale": "Q",
+        "nom": "Quentin Perey",
+        "texte": "J ai appelé pour un ramonages un monsieur très polie et professionnel m'a répondu et venu des le lendemain pour un travail super efficace et pas chère pour le travail convenue je recommande"
+      },
+      {
+        "initiale": "L",
+        "nom": "Laurent Dubourg",
+        "texte": "Une fuite s'est déclarée un dimanche après l'orage. J'ai appelé, on m'a répondu tout de suite et une bâche était posée dans l'après-midi. La réparation a été faite dans la semaine, prix très correct."
+      },
+      {
+        "initiale": "M",
+        "nom": "Marie Sauvage",
+        "texte": "Démoussage et traitement hydrofuge de la toiture à Cadaujac. Travail soigné, gouttières curées au passage et tout était nettoyé en partant. Les tuiles ont retrouvé leur couleur, je recommande."
+      }
+    ]
+  },
+  "galerie": [
+    {
+      "image": "images/gallery1.jpg",
+      "legende": "Ravalement de façade — avant / après"
+    },
+    {
+      "image": "images/gallery2.jpg",
+      "legende": "Rénovation d'un escalier extérieur"
+    },
+    {
+      "image": "images/gallery3.jpg",
+      "legende": "Nettoyage et remise en état d'une toiture"
+    },
+    {
+      "image": "images/gallery4.jpg",
+      "legende": "Réfection d'un muret et d'une clôture"
+    },
+    {
+      "image": "images/gallery5.jpg",
+      "legende": "Démoussage de toiture haute pression"
+    },
+    {
+      "image": "images/gallery6.jpg",
+      "legende": "Peinture de toiture en fibrociment"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand faut-il envisager une rénovation de toiture ?",
+      "reponse": "Dès que vous constatez des tuiles déplacées ou cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
+    },
+    {
+      "question": "Travaillez-vous la tuile canal comme la tuile mécanique ?",
+      "reponse": "Oui. La tuile naturelle reste la couverture dominante en Gironde, et nous la posons dans les règles de l'art, à sec comme au mortier. Nous intervenons aussi sur tuile mécanique, fibrociment et bac acier."
+    },
+    {
+      "question": "À quelle fréquence faut-il démousser un toit en Gironde ?",
+      "reponse": "Tous les trois à cinq ans. L'humidité permanente et les vents d'ouest favorisent une repousse rapide des mousses, surtout sur les pans exposés au nord."
+    },
+    {
+      "question": "Dans quelles communes intervenez-vous ?",
+      "reponse": "Nous intervenons à Castres-Gironde et dans toute la Gironde : Cadaujac, Beautiran, Bordeaux, Saint-Médard-d'Eyrans, Portets, Ayguemorte-les-Graves, Isle-Saint-Georges, La Brède, Léognan, Cestas, Villenave-d'Ornon, Gradignan, Langon, ainsi que Mérignac et Podensac."
+    },
+    {
+      "question": "Intervenez-vous en urgence après une tempête ?",
+      "reponse": "Oui. En cas de fuite ou de tuiles arrachées, nous passons en priorité poser une bâche de protection pour stopper les dégâts, puis nous chiffrons la remise en état."
+    },
+    {
+      "question": "Proposez-vous des devis gratuits ?",
+      "reponse": "Oui, le devis est gratuit, détaillé poste par poste et sans engagement. Nous nous déplaçons sur place pour évaluer les travaux et vous donner un prix ferme."
+    }
+  ],
+  "contact_description": "Un problème de toiture ou un projet de rénovation ? Appelez-nous à toute heure, le devis est gratuit.",
+  "footer_description": "Couvreur à Castres-Gironde (33), près de Bordeaux. Rénovation et réparation de toiture, couverture neuve, zinguerie, démoussage, façade et peinture — joignable 24h/24.",
+  "seo": {
+    "title": "Couvreur à Castres-Gironde (33) — toiture, zinguerie et façade 24h/24 | A toit la couverture",
+    "description": "A toit la couverture, couvreur à Castres-Gironde près de Bordeaux : rénovation et réparation de toiture, couverture neuve, zinguerie, démoussage, Velux, façade et peinture. Joignable 24h/24, devis gratuit au 06 65 14 62 03.",
+    "keywords": "couvreur Castres-Gironde, couvreur Bordeaux, couvreur 33, rénovation toiture Gironde, démoussage toiture Bordeaux, zinguerie Gironde, couvreur Cadaujac, couvreur La Brède, ravalement façade 33640, couvreur urgence 24h/24 Gironde",
+    "email": "",
+    "code_postal": "33640",
+    "departement": "Gironde",
+    "geo_region": "FR-33",
+    "lat": 44.7069,
+    "lng": -0.4394,
+    "villes": [
+      "Castres-Gironde",
+      "Cadaujac",
+      "Beautiran",
+      "Bordeaux",
+      "Saint-Médard-d'Eyrans",
+      "Portets",
+      "Ayguemorte-les-Graves",
+      "Isle-Saint-Georges",
+      "La Brède",
+      "Léognan",
+      "Cestas",
+      "Villenave-d'Ornon",
+      "Gradignan",
+      "Langon",
+      "Mérignac",
+      "Podensac"
+    ]
+  },
+  "horaires": {
+    "visible": true,
+    "adresse": "16 Place de l'Airial, 33640 Castres-Gironde",
+    "lat": 44.7069,
+    "lng": -0.4394,
+    "jours": [
+      {
+        "nom": "Lundi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mardi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mercredi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Jeudi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Vendredi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Samedi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Dimanche",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      }
+    ]
+  }
+}
