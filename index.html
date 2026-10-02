@@ -133,7 +133,7 @@
   }
   </script>
 
-  <link rel="preload" as="image" href="images/hero-bg.jpg" />
+  <link rel="preload" as="image" href="images/hero-bg.jpg" fetchpriority="high" />
   <!-- SEO-BLOCK-END -->
   <!-- FAVICON (logo du site dans l'onglet du navigateur) -->
   <link rel="icon" href="favicon.svg" type="image/svg+xml" />
@@ -955,7 +955,7 @@
 </nav>
 
 <!-- HERO -->
-<section id="hero">
+<section id="hero" style="background-image:url('images/hero-bg.jpg')">
   <div class="hero-inner">
     <span class="hero-eyebrow fade-up" style="--delay:.1s">
       <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--primary);flex-shrink:0"></span>
@@ -1028,7 +1028,7 @@
       </div>
     </div>
     <div class="about-photo">
-      <img id="aboutImg" src="" alt="" loading="lazy" />
+      <img id="aboutImg" src="images/apropos.jpg" alt="A toit la couverture — couvreur à Castres-Gironde" loading="lazy" />
     </div>
   </div>
 </section>
@@ -1036,10 +1036,10 @@
 <!-- STATS -->
 <section id="stats">
   <div class="stats-inner" id="statsInner"><div class="stat-block">
-        <div class="stat-val" data-target="10" data-prefix="">0</div>
+        <div class="stat-val" data-target="10" data-prefix="">10</div>
         <div class="stat-lbl">Ans d'expérience</div>
       </div><div class="stats-divider"></div><div class="stat-block">
-        <div class="stat-val" data-target="200" data-prefix="+">0</div>
+        <div class="stat-val" data-target="200" data-prefix="+">+200</div>
         <div class="stat-lbl">Réalisations</div>
       </div></div>
 </section>
@@ -1115,20 +1115,20 @@
     <p>Nous réalisons la <strong>rénovation de toiture</strong>, la <strong>réparation d'urgence</strong>, la <strong>pose de couverture neuve</strong>, la <strong>zinguerie</strong>, le <strong>démoussage</strong>, la <strong>pose de Velux</strong>, le <strong>ravalement de façade</strong> et les <strong>travaux de peinture</strong> dans toutes ces communes. Le déplacement pour établir votre devis est gratuit et sans engagement.</p>
     <div class="villes">
       <a class="ville-chip" href="zones-intervention.html">Castres-Gironde</a>
-      <a class="ville-chip" href="zones-intervention.html">Cadaujac</a>
+      <a class="ville-chip" href="couvreur-cadaujac.html">Cadaujac</a>
       <a class="ville-chip" href="zones-intervention.html">Beautiran</a>
-      <a class="ville-chip" href="zones-intervention.html">Bordeaux</a>
+      <a class="ville-chip" href="couvreur-bordeaux.html">Bordeaux</a>
       <a class="ville-chip" href="zones-intervention.html">Saint-Médard-d'Eyrans</a>
       <a class="ville-chip" href="zones-intervention.html">Portets</a>
       <a class="ville-chip" href="zones-intervention.html">Ayguemorte-les-Graves</a>
       <a class="ville-chip" href="zones-intervention.html">Isle-Saint-Georges</a>
       <a class="ville-chip" href="zones-intervention.html">La Brède</a>
-      <a class="ville-chip" href="zones-intervention.html">Léognan</a>
+      <a class="ville-chip" href="couvreur-leognan.html">Léognan</a>
       <a class="ville-chip" href="zones-intervention.html">Cestas</a>
-      <a class="ville-chip" href="zones-intervention.html">Villenave-d'Ornon</a>
-      <a class="ville-chip" href="zones-intervention.html">Gradignan</a>
+      <a class="ville-chip" href="couvreur-villenave-d-ornon.html">Villenave-d'Ornon</a>
+      <a class="ville-chip" href="couvreur-gradignan.html">Gradignan</a>
       <a class="ville-chip" href="zones-intervention.html">Langon</a>
-      <a class="ville-chip" href="zones-intervention.html">Mérignac</a>
+      <a class="ville-chip" href="couvreur-merignac.html">Mérignac</a>
       <a class="ville-chip" href="zones-intervention.html">Podensac</a>
     </div>
     <div style="margin-top:1.8rem">
@@ -1466,7 +1466,7 @@
       </span>
     </div>
   </div>
-  <p class="footer-villes">Castres-Gironde · Cadaujac · Beautiran · Bordeaux · Saint-Médard-d'Eyrans · Portets · Ayguemorte-les-Graves · Isle-Saint-Georges · La Brède · Léognan · Cestas · Villenave-d'Ornon · Gradignan · Langon · Mérignac · Podensac</p>
+  <p class="footer-villes">Castres-Gironde · <a href="couvreur-cadaujac.html" style="color:inherit">Cadaujac</a> · Beautiran · <a href="couvreur-bordeaux.html" style="color:inherit">Bordeaux</a> · Saint-Médard-d'Eyrans · Portets · Ayguemorte-les-Graves · Isle-Saint-Georges · La Brède · <a href="couvreur-leognan.html" style="color:inherit">Léognan</a> · Cestas · <a href="couvreur-villenave-d-ornon.html" style="color:inherit">Villenave-d'Ornon</a> · <a href="couvreur-gradignan.html" style="color:inherit">Gradignan</a> · Langon · <a href="couvreur-merignac.html" style="color:inherit">Mérignac</a> · Podensac</p>
   <div class="footer-bottom">
     <span>© <span id="footerAnnee">2026</span> <span id="footerNom">A toit la couverture</span> — Couvreur en Gironde (33)</span>
     <a href="zones-intervention.html">Zones d'intervention</a>
